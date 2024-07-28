@@ -377,5 +377,3 @@ Developers:
     - Signals
 
 *[Back to the Table of Contents](#table-of-contents)*
-#   M e n t O S  
- 
